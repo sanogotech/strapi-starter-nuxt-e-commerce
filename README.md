@@ -9,13 +9,16 @@ npm install
 npm install  sqlite3
 npm  run build
 npm  start
+http://localhost:1337/admin/
 ```
 
 
 ``` 
-# FoR Web  E-commerce  Nuxtjs
+# FoR Web  E-commerce  Nuxtjs project  "Starter"
 npm install
 npm  run develop
+
+http://localhost:3000/
 ```
 
 ![screenshot image](/screenshot.png)
